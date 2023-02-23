@@ -12,3 +12,6 @@
   
   <h1>DESKTOP</h1>
   <img src="https://github.com/HiagoPaulo/PROJETO-Wide-coverage-location/blob/master/img/wide-desktop.png?raw=true"/>
+  <br>
+  <h1>MOBILE</h1>
+  <img src="https://github.com/HiagoPaulo/PROJETO-Wide-coverage-location/blob/master/img/wide-mobile.png?raw=true"/>
